@@ -32,7 +32,7 @@ The **Attendance Management System** is a Python-based application that leverage
 ```bash
 git clone https://github.com/SHREEPATI-1503/Attendance-Management-System-using-Face-Recognition.git
 cd attendance-management-system
-
+```
 
 ### 2. Install Required Packages
 Ensure Python is installed on your system, then install the necessary dependencies:
